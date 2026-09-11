@@ -37,14 +37,6 @@ My goal is to grow toward **System Administration, DevOps, and DevSecOps**, whil
   </a>
 </p>
 
-### 🌐 Networking & Web
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nginx,html,css,js" />
-  </a>
-</p>
-
 ### 🗄️ Databases
 
 <p align="left">
@@ -94,5 +86,7 @@ Each mission documents what I learned, the commands and configurations used, the
 
 <br>
 <p align="left">
-  <!-- Add your LinkedIn and other social links here -->
+  <a href="https://www.linkedin.com/in/rodrigo-santoyo-gonzález-368442337">
+    <img src="https://cdn.simpleicons.org/linkedin" width="30" alt="LinkedIn"/>
+  </a>
 </p>
