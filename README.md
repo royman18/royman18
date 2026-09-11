@@ -1,40 +1,98 @@
 # Hi there 👋
 
-I'm Rodrigo Santoyo, a passionate learner and aspiring full-stack developer.  
-I love building CLI tools, interactive web apps, and exploring cybersecurity challenges.  
-Currently, I'm combining my programming journey with English practice to grow both technically and personally.
+I'm Rodrigo Santoyo, an IT engineer focused on building a strong foundation in **Linux system administration, automation, cybersecurity, and cloud technologies**.
+
+I'm currently developing my skills through hands-on projects, especially my **Linux System Administration Lab**, where I practice server administration, networking, security, services, troubleshooting, and documentation.
+
+My goal is to grow toward **System Administration, DevOps, and DevSecOps**, while continuing to strengthen my programming skills with Python and my understanding of cloud infrastructure.
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on CLI projects and transforming them into web apps with HTML, CSS, and JavaScript  
-- 🌱 I’m learning advanced JavaScript concepts (recursion, closures, modular design) and starting with frontend development  
-- 👯 I’m looking to collaborate on open-source projects related to cybersecurity, automation, or developer tools  
-- 🤔 I’m exploring how to build scalable and maintainable applications with best practices  
-- 💬 Ask me about Git, GitHub workflows, or JavaScript fundamentals  
-- 📫 How to reach me: roysann18@gmail.com  
-- ⚡ Fun fact: I treat programming like a gym routine — every project is a new workout 💪  
+* 🔭 I'm currently building a **Linux System Administration Lab** using real hardware and Linux servers
+* 🌱 I'm learning **Linux administration, networking, system security, services, monitoring, backups, and automation**
+* 🐍 I'm learning **Python** with a focus on scripting and IT automation
+* ☁️ I'm exploring **Google Cloud Platform** and cloud infrastructure
+* 🔐 I'm developing my knowledge of **cybersecurity and system hardening**
+* 🐳 I'm interested in **Docker, DevOps, and DevSecOps**
+* 🛠️ I enjoy understanding how systems work from the terminal and troubleshooting problems methodically
+* 📚 I believe in learning by building, documenting, breaking, troubleshooting, and rebuilding
+* 💬 Ask me about Linux, Git, basic networking, system administration, or my homelab projects
+* 📫 How to reach me: [roysann18@gmail.com](mailto:roysann18@gmail.com)
 
- - Backend
+## 🧰 Technologies & Tools
+
+### 🐧 Systems & Infrastructure
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,py" />
+    <img src="https://skillicons.dev/icons?i=linux,bash" />
   </a>
 </p>
 
-- Frontend
+### 🐍 Programming & Automation
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=py" />
   </a>
 </p>
+
+### 🌐 Networking & Web
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nginx,html,css,js" />
+  </a>
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,docker,git,github" />
+  </a>
+</p>
+
+## 🚀 Current Focus
+
+I'm currently focusing on building practical experience in:
+
+* Linux system administration
+* Server management
+* Networking fundamentals
+* System security and hardening
+* Troubleshooting
+* Web server administration
+* Python automation
+* Docker
+* Cloud infrastructure
+* DevOps / DevSecOps
+
+## 🧪 Featured Project
+
+### 🖥️ Linux System Administration Lab
+
+A hands-on homelab focused on learning and documenting Linux system administration.
+
+The project covers:
+
+**Linux → Services → Networking → Security → Monitoring → Backups → Automation → Docker → Cloud**
+
+Each mission documents what I learned, the commands and configurations used, the problems encountered, and the reasoning behind the solutions.
+
+👉 Check out the repository to follow my progress.
 
 ## 🌐 Connect with Me
+
 <br>
 <p align="left">
-
-
-<a href="https://linkedin.com/in/rodrigo-santoyo-gonzález-368442337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-<a href="https://instagram.com/roy_roy3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
-
+  <!-- Add your LinkedIn and other social links here -->
 </p>
-<br>
